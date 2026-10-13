@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 轨道 -->
+    <path
+        android:fillAlpha="0.55"
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M22,57 H86 V63 H22 Z" />
+
+    <!-- 滑块 -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43,38 H65 V57 H43 Z" />
+
+    <!-- 相机 -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M48,30 H60 V38 H48 Z" />
+
+    <!-- 底座 -->
+    <path
+        android:fillAlpha="0.35"
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M30,68 H78 V72 H30 Z" />
+
+</vector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 仅 debug 构建存在：用于在无真机时渲染界面做可视化检查与截图 -->
+    <application>
+        <activity
+            android:name=".PreviewHostActivity"
+            android:exported="false"
+            android:label="界面预览"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Ntk1" />
+    </application>
+
+</manifest>
